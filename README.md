@@ -99,4 +99,4 @@ To build this application for Windows platform, follow these steps:
    ```bash
    flutter build windows
    ```
-3. After building, the executable will be located in build\windows\x64\runner\Releasedirectory
+3. After building, the executable will be located in build\windows\x64\runner\Release directory
